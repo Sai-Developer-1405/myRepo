@@ -1,0 +1,5 @@
+1) Approximate inference in Bayesian networks 
+
+2) Semantics of Bayesian networks
+
+3) Representing knowledge in an uncertain domain
